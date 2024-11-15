@@ -18,33 +18,24 @@ Ingeniero Civil Informático con amplia experiencia en desarrollo full stack y c
 ## 🎯 Especialidades
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Frontend-Development-FF4088?style=for-the-badge" alt="Frontend"/>
-  <img src="https://img.shields.io/badge/Backend-Development-0A66C2?style=for-the-badge" alt="Backend"/>
-  <img src="https://img.shields.io/badge/Data-Science-4CAF50?style=for-the-badge" alt="Data Science"/>
-  <img src="https://img.shields.io/badge/Cloud-Computing-FF9800?style=for-the-badge" alt="Cloud Computing"/>
+  <img src="https://img.shields.io/badge/Frontend-Development-FF4088?style=for-the-badge&logoColor=white" alt="Frontend"/>
+  <img src="https://img.shields.io/badge/Backend-Development-0A66C2?style=for-the-badge&logoColor=white" alt="Backend"/>
+  <img src="https://img.shields.io/badge/Data-Science-4CAF50?style=for-the-badge&logoColor=white" alt="Data Science"/>
+  <img src="https://img.shields.io/badge/Cloud-Computing-FF9800?style=for-the-badge&logoColor=white" alt="Cloud Computing"/>
 </div>
 
 ## 💻 Tech Stack
 
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux" /></a>
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,nodejs,express,fastapi,graphql" /></a>
-</p>
-
-<h3 align="center">Database & Cloud</h3>
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,aws,docker,firebase" /></a>
-</p>
-
-<h3 align="center">Tools & Others</h3>
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" /></a>
-</p>
+<div align="center">
+  <h3>Frontend & Backend</h3>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,python,nodejs,express,fastapi,graphql" />
+  
+  <h3>Database & Cloud</h3>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,aws,docker,firebase" />
+  
+  <h3>Tools & Others</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" />
+</div>
 
 ## 🌐 Idiomas
 
@@ -57,10 +48,10 @@ Ingeniero Civil Informático con amplia experiencia en desarrollo full stack y c
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=WDCPrado&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&border_radius=10" alt="readme stats" />
-</div>
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WDCPrado&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="top langs" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=WDCPrado&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&border_radius=10&count_private=true&include_all_commits=true" alt="readme stats" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WDCPrado&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="top langs" />
+  
+  <img width="70%" src="https://github-profile-trophy.vercel.app/?username=WDCPrado&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy stats" />
 </div>
 
 ## 📫 Contacto
@@ -72,17 +63,15 @@ Ingeniero Civil Informático con amplia experiencia en desarrollo full stack y c
   <a href="mailto:wellintoncosta.10@hotmail.com">
     <img src="https://img.shields.io/badge/Email-wellintoncosta.10@hotmail.com-FF4088?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
-  <br/>
+  
   <a href="https://www.linkedin.com/in/welliton-da-costa-prado-5050b4251">
     <img src="https://img.shields.io/badge/LinkedIn-Welliton_Da_Costa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <br/>
+  
   <a href="tel:+56962273789">
     <img src="https://img.shields.io/badge/WhatsApp-+56_9_6227_3789-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </div>
-
-<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
