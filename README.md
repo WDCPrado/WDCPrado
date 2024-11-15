@@ -4,19 +4,7 @@
 
 <div align="center">
   <h1>Welliton Da Costa Prado</h1>
-  <h3>Full Stack Developer | Data Science Enthusiast</h3>
-</div>
-
-<div align="center">
-  <a href="mailto:wellintoncosta.10@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-Contáctame-FF4088?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/welliton-da-costa-prado-5050b4251">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-  <a href="tel:+56962273789">
-    <img src="https://img.shields.io/badge/WhatsApp-Mensaje-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
+  <h3>Desarrollador Full Stack</h3>
 </div>
 
 <br/>
@@ -24,7 +12,7 @@
 ## 👨‍💻 Sobre mí
 
 <p align="center">
-Desarrollador Full Stack con experiencia en desarrollo web y ciencia de datos. Me apasiona crear soluciones tecnológicas innovadoras y escalables que generen impacto real.
+Ingeniero Civil Informático con amplia experiencia en desarrollo full stack y ciencia de datos. Combino habilidades técnicas avanzadas con una sólida comprensión de los principios de ingeniería para crear soluciones robustas y escalables.
 </p>
 
 ## 🎯 Especialidades
@@ -71,10 +59,6 @@ Desarrollador Full Stack con experiencia en desarrollo web y ciencia de datos. M
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=WDCPrado&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&border_radius=10" alt="readme stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=WDCPrado&theme=tokyonight&hide_border=true&border_radius=10" alt="streak stats"/>
-</div>
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WDCPrado&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="top langs" />
 </div>
 
 ## 📫 Contacto
