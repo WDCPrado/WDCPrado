@@ -13,18 +13,7 @@
 </div>
 
 ## 🚀 Sobre mí
-Desarrollador Full Stack con experiencia en desarrollo web y ciencia de datos. Me especializo en crear soluciones robustas y escalables, combinando habilidades técnicas avanzadas con sólidos principios de ingeniería.
-
-## 💼 Experiencia Profesional
-
-### ECR Solar | Desarrollador Full Stack
-- 📊 Desarrollo frontend y backend con GraphQL y Prisma
-- ⚡ Implementación de Lambda functions con EventBridge
-- ☁️ Gestión de servicios AWS
-
-### Dermatología Estoril | Desarrollador Full Stack
-- 🌐 Desarrollo de sistema de agenda con Next.js
-- 📈 Implementación de dashboard operativo
+Desarrollador Full Stack con experiencia en desarrollo web y ciencia de datos. Me especializo en crear soluciones robustas y escalables, combinando habilidades técnicas avanzadas con sólidos principios de ingeniería y planificación.
 
 ## 🛠️ Stack Tecnológico
 
@@ -57,7 +46,7 @@ Desarrollador Full Stack con experiencia en desarrollo web y ciencia de datos. M
 - 🇺🇸 Inglés (Avanzado)
 
 ## 📊 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=WDCPrado&show_icons=true&theme=radical)
 
 ## 📫 Contacto
 ¿Interesado en colaborar? ¡No dudes en contactarme!
