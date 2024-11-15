@@ -58,7 +58,9 @@ Ingeniero Civil Informático con amplia experiencia en desarrollo full stack y c
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=WDCPrado&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=WDCPrado&theme=tokyonight&hide_border=true&border_radius=10" alt="streak stats"/>
+</div>
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WDCPrado&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="top langs" />
 </div>
 
 ## 📫 Contacto
