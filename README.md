@@ -48,7 +48,7 @@
   <img src="https://custom-icon-badges.demolab.com/badge/Inglés-Avanzado-0A66C2?style=for-the-badge&logo=check-circle&logoColor=white" />
 </div>
 
-## 📊 Estadísticas de GitHub
+## 📊 Estadísticas de GitHub (Repositorios Privados no Aparecen Pero Tiene mucha más estadísticas)
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=WDCPrado&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&border_radius=10&count_private=true&include_all_commits=true&locale=es" alt="estadísticas readme" />
