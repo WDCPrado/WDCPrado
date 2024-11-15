@@ -54,7 +54,9 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=WDCPrado&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&border_radius=10&count_private=true&include_all_commits=true&locale=es" alt="estadísticas readme" />
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WDCPrado&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&locale=es" alt="lenguajes más usados" />
   
-  <img width="70%" src="https://github-profile-trophy.vercel.app/?username=WDCPrado&theme=tokyonight&no-frame=true&row=1&column=7&locale=es" alt="trofeos" />
+ <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WDCPrado&theme=tokyonight" />
+</div>
 </div>
 
 ## 📫 Contacto
