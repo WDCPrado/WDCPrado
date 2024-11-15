@@ -2,17 +2,15 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
-## 👨‍💻 Sobre mí
 <div align="center">
   <h1>Welliton Da Costa Prado</h1>
   <h3>Desarrollador Full Stack</h3>
   <p align="center">
-Ingeniero Civil Informático con amplia experiencia en desarrollo full stack y ciencia de datos. Combino habilidades técnicas avanzadas con una sólida comprensión de los principios de ingeniería para crear soluciones robustas y escalables.
+  Ingeniero Civil Informático con amplia experiencia en desarrollo full stack y ciencia de datos. Combino habilidades técnicas avanzadas con una sólida comprensión de los principios de ingeniería para crear soluciones robustas y escalables.
 </p>
 
 </div>
 
-<br/>
 
 ## 🎯 Especialidades
 
