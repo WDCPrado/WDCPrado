@@ -24,17 +24,17 @@
 ## 💻 Stack Tecnológico
 
 <div align="center">
-  <h3>Frontend y Móvil</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,flutter" />
+  <h3>Frontend y Mobile</h3>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,flutter,graphql" />
   
   <h3>Backend</h3>
   <img src="https://skillicons.dev/icons?i=python,nodejs,express,fastapi,graphql" />
   
   <h3>Base de Datos y Nube</h3>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,aws,docker,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,aws,docker,vercel,netlify" />
   
   <h3>Infraestructura</h3>
-  <img src="https://skillicons.dev/icons?i=kubernetes,terraform,serverless" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,serverless,aws" />
   
   <h3>Herramientas y Otros</h3>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" />
