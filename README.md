@@ -25,7 +25,7 @@
 
 <div align="center">
   <h3>Frontend y Mobile</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,flutter,graphql" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,flutter,graphql" />
   
   <h3>Backend</h3>
   <img src="https://skillicons.dev/icons?i=python,nodejs,express,fastapi,graphql" />
