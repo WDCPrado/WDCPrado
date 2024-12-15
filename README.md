@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>Welliton Da Costa Prado</h1>
-  <h3>Desarrollador Full Stack</h3>
+  <h3>Desarrollador Web Full Stack</h3>
   <p align="center">
   Ingeniero de Civil Informático con amplia experiencia en desarrollo web full stack. Combino habilidades técnicas avanzadas con una sólida comprensión de los principios de ingeniería para crear soluciones robustas y escalables.
 </p>
