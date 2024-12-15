@@ -6,7 +6,7 @@
   <h1>Welliton Da Costa Prado</h1>
   <h3>Desarrollador Full Stack</h3>
   <p align="center">
-  Ingeniero Civil Informático con amplia experiencia en desarrollo full stack y ciencia de datos. Combino habilidades técnicas avanzadas con una sólida comprensión de los principios de ingeniería para crear soluciones robustas y escalables.
+  Ingeniero de Software con amplia experiencia en desarrollo web full stack y ciencia de datos. Combino habilidades técnicas avanzadas con una sólida comprensión de los principios de ingeniería para crear soluciones sólidas y escalables.
 </p>
 
 </div>
