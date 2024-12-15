@@ -72,10 +72,6 @@
   <a href="https://www.linkedin.com/in/welliton-da-costa-prado-5050b4251">
     <img src="https://img.shields.io/badge/LinkedIn-Welliton_Da_Costa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
-  <a href="tel:+56962273789">
-    <img src="https://img.shields.io/badge/WhatsApp-+56_9_6227_3789-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
 </div>
 
 <div align="center">
