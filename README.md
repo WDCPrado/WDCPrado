@@ -74,7 +74,7 @@
   </a>
 </div>
 
-## 💻 Proyectos
+## 🧑‍💻 Proyectos
 
 <div align="center">
   <p>Puedes revisar algunos de mis proyectos en los repositorios públicos abajo</p>
