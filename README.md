@@ -62,8 +62,6 @@
 ## 📫 Contacto
 
 <div align="center">
-  <p>¿Interesado en colaborar en proyectos innovadores?</p>
-  <p>¡Contáctame para discutir oportunidades!</p>
   
   <a href="mailto:wellintoncosta.10@hotmail.com">
     <img src="https://img.shields.io/badge/Correo-wellintoncosta.10@hotmail.com-FF4088?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
