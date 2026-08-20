@@ -4,9 +4,9 @@
 
 <div align="center">
   <h1>Welliton Da Costa Prado</h1>
-  <h3>Desarrollador Web Full Stack</h3>
+  <h3>Ingeniero de Software Full Stack</h3>
   <p align="center">
-  Ingeniero de Civil Informático con amplia experiencia en desarrollo web full stack. Combino habilidades técnicas avanzadas con una sólida comprensión de los principios de ingeniería para crear soluciones robustas y escalables.
+  Ingeniero Civil Informático con más de 5 años de experiencia con Python (análisis de datos, machine learning y backend) y más de 3 años con JavaScript. Construyo aplicaciones con React.js, Next.js, Node.js y FastAPI, integradas con bases de datos relacionales y APIs, siguiendo principios SOLID e inyección de dependencias.
 </p>
 
 </div>
@@ -25,19 +25,19 @@
 
 <div align="center">
   <h3>Frontend y Mobile</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,flutter,graphql" />
-  
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,flutter" />
+
   <h3>Backend</h3>
-  <img src="https://skillicons.dev/icons?i=python,nodejs,express,fastapi,graphql" />
-  
-  <h3>Base de Datos y Nube</h3>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,aws,docker,vercel,netlify" />
-  
-  <h3>Infraestructura</h3>
-  <img src="https://skillicons.dev/icons?i=kubernetes,serverless,aws" />
-  
+  <img src="https://skillicons.dev/icons?i=python,nodejs,express,fastapi,graphql,prisma" />
+
+  <h3>Bases de Datos</h3>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" />
+
+  <h3>Nube e Infraestructura</h3>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,serverless,vercel,netlify,railway" />
+
   <h3>Herramientas y Otros</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,figma,postman,linux" />
 </div>
 
 ## 🌐 Idiomas
@@ -48,25 +48,14 @@
   <img src="https://custom-icon-badges.demolab.com/badge/Inglés-Avanzado-0A66C2?style=for-the-badge&logo=check-circle&logoColor=white" />
 </div>
 
-## 📊 Estadísticas de GitHub (Repositorios Privados no Aparecen)
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=WDCPrado&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&border_radius=10&count_private=true&include_all_commits=true&locale=es" alt="estadísticas readme" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WDCPrado&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&locale=es" alt="lenguajes más usados" />
-  
- <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WDCPrado&theme=tokyonight" />
-</div>
-</div>
-
 ## 📫 Contacto
 
 <div align="center">
-  
+
   <a href="mailto:wellintoncosta.10@hotmail.com">
     <img src="https://img.shields.io/badge/Correo-wellintoncosta.10@hotmail.com-FF4088?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
-  
+
   <a href="https://www.linkedin.com/in/welliton-da-costa-prado-5050b4251">
     <img src="https://img.shields.io/badge/LinkedIn-Welliton_Da_Costa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
